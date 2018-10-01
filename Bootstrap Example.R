@@ -19,7 +19,6 @@ boot(data = GCUData, statistic = testFunc, R = 1000, stype = "i")
 # Submission to Lead conversion rates because I couldn't figure it out using the
 # boot package :-)
 
-
 # First, do one resample and see the results: (note that I removed the week number in the resulting list)
 n <- nrow(GCUData)
 manual_resample <- GCUData[sample(c(1:nrow(GCUData)), replace = TRUE),2:3]
