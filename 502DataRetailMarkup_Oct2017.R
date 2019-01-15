@@ -4,13 +4,10 @@ library(dplyr)
 # This data lists, product category, the wholesale and retail price for various products by Wholesaler
 
 from_topshelf <-
-  read.csv("~/R/Learning_R_Project/RetailMarkupOct2017Data.csv",
-           header = TRUE)
+  read.csv("~/R/Learning_R_Project/RetailMarkupOct2017Data.csv", header = TRUE)
 
 # Create a Numeric instead of string list for the Markup to do statistics on it
-from_topshelf$Avg.Markup.With.Tax.Numeric <-
-  round(from_topshelf$Avg.Retail.Price.With.Tax / from_topshelf$Avg.Wholesale.Price,
-        1)
+from_topshelf$Avg.Markup.With.Tax.Numeric <- round(from_topshelf$Avg.Retail.Price.With.Tax / from_topshelf$Avg.Wholesale.Price,1)
 
 summary(from_topshelf)
 
