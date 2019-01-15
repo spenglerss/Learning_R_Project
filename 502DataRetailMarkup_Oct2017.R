@@ -48,3 +48,4 @@ axis(side = 1, at = 1:length(x$stats[1,]), x$names, las = 2
 abline(h = summary(x$stats[3, ])[3]) # This is a line for the Median of all medians per product
 abline(h = summary(x$stats[3, ])[1], lty = 2) # the Minimum of all medians
 abline(h = summary(x$stats[3, ])[6], lty = 2) # the maximum of all medians
+

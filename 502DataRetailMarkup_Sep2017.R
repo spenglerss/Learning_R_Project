@@ -3,7 +3,7 @@ library(dplyr)
 
 # This data lists, product category, the wholesale and retail price for various products by Wholesaler
 
-from_topshelf <- read.csv("~/R/Learning_R_Project/RetailMarkupOct2017Data.csv", header = TRUE) 
+from_topshelf <- read.csv("~/R/Learning_R_Project/RetailMarkupSep2017Data.csv", header = TRUE) 
 
 # Create a Numeric instead of string list for the Markup to do statistics on it
 from_topshelf$Avg.Markup.With.Tax.Numeric <- round(from_topshelf$Avg.Retail.Price.With.Tax / from_topshelf$Avg.Wholesale.Price,1)
@@ -21,7 +21,7 @@ x <- boxplot(Avg.Markup.With.Tax.Numeric~Category, data=from_topshelf, main="Box
              , axes = FALSE)
 
 # Plot it but without outliers or axes and I show them later in a easier to see way
-boxplot(Avg.Markup.With.Tax.Numeric~Category, data=from_topshelf, main="Boxplots by Category - Oct 2017"
+boxplot(Avg.Markup.With.Tax.Numeric~Category, data=from_topshelf, main="Boxplots by Category - Sep 2017"
         , xlab="Category"
         , ylab="Markup Amt"
         , col="orange"
