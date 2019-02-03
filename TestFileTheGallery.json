@@ -1,0 +1,4646 @@
+{
+  "hasMenu": true,
+  "facets": {
+    "types": [
+      {
+        "key": "all",
+        "displayName": "All Products",
+        "docCount": 82
+      },
+      {
+        "key": "flower",
+        "displayName": "Flower",
+        "docCount": 82
+      },
+      {
+        "key": "concentrate",
+        "displayName": "Concentrate",
+        "docCount": 0
+      },
+      {
+        "key": "edible",
+        "displayName": "Edible",
+        "docCount": 0
+      },
+      {
+        "key": "preroll",
+        "displayName": "Preroll",
+        "docCount": 0
+      },
+      {
+        "key": "other",
+        "displayName": "Other",
+        "docCount": 0
+      }
+    ],
+    "maxPrice": 299,
+    "quantities": [],
+    "strains": [
+      {
+        "key": "#4 black lime reserve",
+        "displayName": "#4 Black Lime Reserve",
+        "docCount": 1
+      },
+      {
+        "key": "707 headband",
+        "displayName": "707 Headband",
+        "docCount": 1
+      },
+      {
+        "key": "9 lb hammer",
+        "displayName": "9 Lb Hammer",
+        "docCount": 1
+      },
+      {
+        "key": "9 pound hammer",
+        "displayName": "9 Pound Hammer",
+        "docCount": 1
+      },
+      {
+        "key": "9lb hammer",
+        "displayName": "9lb Hammer",
+        "docCount": 2
+      },
+      {
+        "key": "a train #1",
+        "displayName": "A Train #1",
+        "docCount": 1
+      },
+      {
+        "key": "abusive og",
+        "displayName": "Abusive Og",
+        "docCount": 1
+      },
+      {
+        "key": "ace of spades",
+        "displayName": "Ace Of Spades",
+        "docCount": 1
+      },
+      {
+        "key": "agent orange",
+        "displayName": "Agent Orange",
+        "docCount": 3
+      },
+      {
+        "key": "aj's sour diesel",
+        "displayName": "Aj's Sour Diesel",
+        "docCount": 1
+      },
+      {
+        "key": "ak 47",
+        "displayName": "Ak 47",
+        "docCount": 2
+      },
+      {
+        "key": "alaska thunder f**k",
+        "displayName": "Alaska Thunder F**k",
+        "docCount": 1
+      },
+      {
+        "key": "alaskan cherry pie",
+        "displayName": "Alaskan Cherry Pie",
+        "docCount": 1
+      },
+      {
+        "key": "alaskan thunder fuck",
+        "displayName": "Alaskan Thunder Fuck",
+        "docCount": 2
+      },
+      {
+        "key": "alien tech cherry pie",
+        "displayName": "Alien Tech Cherry Pie",
+        "docCount": 1
+      },
+      {
+        "key": "allen wrench",
+        "displayName": "Allen Wrench",
+        "docCount": 3
+      },
+      {
+        "key": "amnesia haze",
+        "displayName": "Amnesia Haze",
+        "docCount": 1
+      },
+      {
+        "key": "animal cookies",
+        "displayName": "Animal Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "ape tape",
+        "displayName": "Ape Tape",
+        "docCount": 1
+      },
+      {
+        "key": "ape tape trim",
+        "displayName": "Ape Tape Trim",
+        "docCount": 1
+      },
+      {
+        "key": "apple pie",
+        "displayName": "Apple Pie",
+        "docCount": 1
+      },
+      {
+        "key": "assorted",
+        "displayName": "Assorted",
+        "docCount": 1
+      },
+      {
+        "key": "atf",
+        "displayName": "Atf",
+        "docCount": 1
+      },
+      {
+        "key": "atomic",
+        "displayName": "Atomic",
+        "docCount": 1
+      },
+      {
+        "key": "banana kush",
+        "displayName": "Banana Kush",
+        "docCount": 1
+      },
+      {
+        "key": "bay pie",
+        "displayName": "Bay Pie",
+        "docCount": 1
+      },
+      {
+        "key": "bc early blueberry ",
+        "displayName": "Bc Early Blueberry",
+        "docCount": 1
+      },
+      {
+        "key": "berry white",
+        "displayName": "Berry White",
+        "docCount": 2
+      },
+      {
+        "key": "big purple",
+        "displayName": "Big Purple",
+        "docCount": 1
+      },
+      {
+        "key": "big smooth",
+        "displayName": "Big Smooth",
+        "docCount": 1
+      },
+      {
+        "key": "black cherry cheesecake",
+        "displayName": "Black Cherry Cheesecake",
+        "docCount": 1
+      },
+      {
+        "key": "black cherry soda",
+        "displayName": "Black Cherry Soda",
+        "docCount": 2
+      },
+      {
+        "key": "black magic",
+        "displayName": "Black Magic",
+        "docCount": 1
+      },
+      {
+        "key": "blackbeard's gold",
+        "displayName": "Blackbeard's Gold",
+        "docCount": 1
+      },
+      {
+        "key": "blackberry chem og",
+        "displayName": "Blackberry Chem Og",
+        "docCount": 1
+      },
+      {
+        "key": "blackberry kush",
+        "displayName": "Blackberry Kush",
+        "docCount": 5
+      },
+      {
+        "key": "blue cookies",
+        "displayName": "Blue Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "blue dream",
+        "displayName": "Blue Dream",
+        "docCount": 5
+      },
+      {
+        "key": "blue  dream",
+        "displayName": "Blue Dream",
+        "docCount": 1
+      },
+      {
+        "key": "blue magoo",
+        "displayName": "Blue Magoo",
+        "docCount": 2
+      },
+      {
+        "key": "blueberry",
+        "displayName": "Blueberry",
+        "docCount": 2
+      },
+      {
+        "key": "blueberry diesel",
+        "displayName": "Blueberry Diesel",
+        "docCount": 1
+      },
+      {
+        "key": "blueberry kush",
+        "displayName": "Blueberry Kush",
+        "docCount": 1
+      },
+      {
+        "key": "blueberry shortcake",
+        "displayName": "Blueberry Shortcake",
+        "docCount": 1
+      },
+      {
+        "key": "bootylicious",
+        "displayName": "Bootylicious",
+        "docCount": 1
+      },
+      {
+        "key": "brian berry cough",
+        "displayName": "Brian Berry Cough",
+        "docCount": 1
+      },
+      {
+        "key": "bubba cherry kush",
+        "displayName": "Bubba Cherry Kush",
+        "docCount": 1
+      },
+      {
+        "key": "bubba cherry kush trim",
+        "displayName": "Bubba Cherry Kush Trim",
+        "docCount": 1
+      },
+      {
+        "key": "bubblegum",
+        "displayName": "Bubblegum",
+        "docCount": 1
+      },
+      {
+        "key": "buddha's delight",
+        "displayName": "Buddha's Delight",
+        "docCount": 1
+      },
+      {
+        "key": "cannaman coffee",
+        "displayName": "Cannaman Coffee",
+        "docCount": 1
+      },
+      {
+        "key": "casey quantum",
+        "displayName": "Casey Quantum",
+        "docCount": 1
+      },
+      {
+        "key": "cbd blue shark",
+        "displayName": "Cbd Blue Shark",
+        "docCount": 1
+      },
+      {
+        "key": "cbd critical mass",
+        "displayName": "Cbd Critical Mass",
+        "docCount": 1
+      },
+      {
+        "key": "cement shoes",
+        "displayName": "Cement Shoes",
+        "docCount": 1
+      },
+      {
+        "key": "cheese candy",
+        "displayName": "Cheese Candy",
+        "docCount": 1
+      },
+      {
+        "key": "chem dog",
+        "displayName": "Chem Dog",
+        "docCount": 1
+      },
+      {
+        "key": "chemdog",
+        "displayName": "Chemdog",
+        "docCount": 1
+      },
+      {
+        "key": "chemmy jones",
+        "displayName": "Chemmy Jones",
+        "docCount": 1
+      },
+      {
+        "key": "cherry cream pie",
+        "displayName": "Cherry Cream Pie",
+        "docCount": 1
+      },
+      {
+        "key": "cherry og",
+        "displayName": "Cherry Og",
+        "docCount": 1
+      },
+      {
+        "key": "cherry og #2",
+        "displayName": "Cherry Og #2",
+        "docCount": 1
+      },
+      {
+        "key": "cherry sherbet",
+        "displayName": "Cherry Sherbet",
+        "docCount": 1
+      },
+      {
+        "key": "chocolate lemonade chemdawg",
+        "displayName": "Chocolate Lemonade Chemdawg",
+        "docCount": 1
+      },
+      {
+        "key": "chocolate oranges #4",
+        "displayName": "Chocolate Oranges #4",
+        "docCount": 1
+      },
+      {
+        "key": "chunky cherry malawi x purple og",
+        "displayName": "Chunky Cherry Malawi X Purple Og",
+        "docCount": 1
+      },
+      {
+        "key": "cinex",
+        "displayName": "Cinex",
+        "docCount": 1
+      },
+      {
+        "key": "citrique #5",
+        "displayName": "Citrique #5",
+        "docCount": 1
+      },
+      {
+        "key": "citrus farmer",
+        "displayName": "Citrus Farmer",
+        "docCount": 1
+      },
+      {
+        "key": "citrus kush",
+        "displayName": "Citrus Kush",
+        "docCount": 1
+      },
+      {
+        "key": "ck pitbull",
+        "displayName": "Ck Pitbull",
+        "docCount": 1
+      },
+      {
+        "key": "clementine",
+        "displayName": "Clementine",
+        "docCount": 1
+      },
+      {
+        "key": "confidential grapefruit",
+        "displayName": "Confidential Grapefruit",
+        "docCount": 2
+      },
+      {
+        "key": "cookie dough",
+        "displayName": "Cookie Dough",
+        "docCount": 1
+      },
+      {
+        "key": "cookies and cream",
+        "displayName": "Cookies And Cream",
+        "docCount": 1
+      },
+      {
+        "key": "cookies n cake",
+        "displayName": "Cookies N Cake",
+        "docCount": 1
+      },
+      {
+        "key": "cookies n cream",
+        "displayName": "Cookies N Cream",
+        "docCount": 1
+      },
+      {
+        "key": "cookies n' cream",
+        "displayName": "Cookies N' Cream",
+        "docCount": 1
+      },
+      {
+        "key": "critical mass",
+        "displayName": "Critical Mass",
+        "docCount": 2
+      },
+      {
+        "key": "dairy queen",
+        "displayName": "Dairy Queen",
+        "docCount": 1
+      },
+      {
+        "key": "dawg walker",
+        "displayName": "Dawg Walker",
+        "docCount": 1
+      },
+      {
+        "key": "day tripper",
+        "displayName": "Day Tripper",
+        "docCount": 1
+      },
+      {
+        "key": "deadhead og",
+        "displayName": "Deadhead Og",
+        "docCount": 1
+      },
+      {
+        "key": "death star",
+        "displayName": "Death Star",
+        "docCount": 2
+      },
+      {
+        "key": "disco ball",
+        "displayName": "Disco Ball",
+        "docCount": 1
+      },
+      {
+        "key": "donkey butter",
+        "displayName": "Donkey Butter",
+        "docCount": 1
+      },
+      {
+        "key": "dosidos",
+        "displayName": "Dosidos",
+        "docCount": 1
+      },
+      {
+        "key": "dr. who",
+        "displayName": "Dr. Who",
+        "docCount": 1
+      },
+      {
+        "key": "dragon fruit",
+        "displayName": "Dragon Fruit",
+        "docCount": 1
+      },
+      {
+        "key": "dragon og",
+        "displayName": "Dragon Og",
+        "docCount": 1
+      },
+      {
+        "key": "dutch hawaiian",
+        "displayName": "Dutch Hawaiian",
+        "docCount": 2
+      },
+      {
+        "key": "dutch treat",
+        "displayName": "Dutch Treat",
+        "docCount": 1
+      },
+      {
+        "key": "dutch treat #5",
+        "displayName": "Dutch Treat #5",
+        "docCount": 1
+      },
+      {
+        "key": "dutchberry",
+        "displayName": "Dutchberry",
+        "docCount": 2
+      },
+      {
+        "key": "ecsd x white",
+        "displayName": "Ecsd X White",
+        "docCount": 1
+      },
+      {
+        "key": "elmer's glue",
+        "displayName": "Elmer's Glue",
+        "docCount": 1
+      },
+      {
+        "key": "ewok",
+        "displayName": "Ewok",
+        "docCount": 2
+      },
+      {
+        "key": "fire og",
+        "displayName": "Fire Og",
+        "docCount": 1
+      },
+      {
+        "key": "firewalker og",
+        "displayName": "Firewalker Og",
+        "docCount": 1
+      },
+      {
+        "key": "freddy's fuego",
+        "displayName": "Freddy's Fuego",
+        "docCount": 1
+      },
+      {
+        "key": "freddy's kush",
+        "displayName": "Freddy's Kush",
+        "docCount": 1
+      },
+      {
+        "key": "frosted cherry cookies",
+        "displayName": "Frosted Cherry Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "fruity chronic juice",
+        "displayName": "Fruity Chronic Juice",
+        "docCount": 1
+      },
+      {
+        "key": "g13",
+        "displayName": "G13",
+        "docCount": 2
+      },
+      {
+        "key": "galactic glue",
+        "displayName": "Galactic Glue",
+        "docCount": 3
+      },
+      {
+        "key": "gandalf",
+        "displayName": "Gandalf",
+        "docCount": 1
+      },
+      {
+        "key": "garlic glue",
+        "displayName": "Garlic Glue",
+        "docCount": 1
+      },
+      {
+        "key": "gas chamber",
+        "displayName": "Gas Chamber",
+        "docCount": 1
+      },
+      {
+        "key": "gas leak",
+        "displayName": "Gas Leak",
+        "docCount": 1
+      },
+      {
+        "key": "gelato",
+        "displayName": "Gelato",
+        "docCount": 1
+      },
+      {
+        "key": "gelato 33",
+        "displayName": "Gelato 33",
+        "docCount": 1
+      },
+      {
+        "key": "gg#4",
+        "displayName": "Gg#4",
+        "docCount": 2
+      },
+      {
+        "key": "girl scout master",
+        "displayName": "Girl Scout Master",
+        "docCount": 1
+      },
+      {
+        "key": "glurilla",
+        "displayName": "Glurilla",
+        "docCount": 1
+      },
+      {
+        "key": "go time",
+        "displayName": "Go Time",
+        "docCount": 1
+      },
+      {
+        "key": "god's gift",
+        "displayName": "God's Gift",
+        "docCount": 1
+      },
+      {
+        "key": "goji og",
+        "displayName": "Goji Og",
+        "docCount": 1
+      },
+      {
+        "key": "golden lemons",
+        "displayName": "Golden Lemons",
+        "docCount": 2
+      },
+      {
+        "key": "golden tangie",
+        "displayName": "Golden Tangie",
+        "docCount": 1
+      },
+      {
+        "key": "golden temple kush",
+        "displayName": "Golden Temple Kush",
+        "docCount": 1
+      },
+      {
+        "key": "golden ticket",
+        "displayName": "Golden Ticket",
+        "docCount": 1
+      },
+      {
+        "key": "gooberry",
+        "displayName": "Gooberry",
+        "docCount": 2
+      },
+      {
+        "key": "gorilla cake",
+        "displayName": "Gorilla Cake",
+        "docCount": 1
+      },
+      {
+        "key": "gorilla glue",
+        "displayName": "Gorilla Glue",
+        "docCount": 3
+      },
+      {
+        "key": "gorilla glue #4",
+        "displayName": "Gorilla Glue #4",
+        "docCount": 1
+      },
+      {
+        "key": "granddaddy dutch",
+        "displayName": "Granddaddy Dutch",
+        "docCount": 1
+      },
+      {
+        "key": "granddaddy purple",
+        "displayName": "Granddaddy Purple",
+        "docCount": 1
+      },
+      {
+        "key": "granola funk",
+        "displayName": "Granola Funk",
+        "docCount": 1
+      },
+      {
+        "key": "grape ape",
+        "displayName": "Grape Ape",
+        "docCount": 2
+      },
+      {
+        "key": "grape god",
+        "displayName": "Grape God",
+        "docCount": 3
+      },
+      {
+        "key": "grape god trim",
+        "displayName": "Grape God Trim",
+        "docCount": 1
+      },
+      {
+        "key": "grapefruit",
+        "displayName": "Grapefruit",
+        "docCount": 1
+      },
+      {
+        "key": "grapefruit x nph",
+        "displayName": "Grapefruit X Nph",
+        "docCount": 1
+      },
+      {
+        "key": "green crack",
+        "displayName": "Green Crack",
+        "docCount": 3
+      },
+      {
+        "key": "green dream",
+        "displayName": "Green Dream",
+        "docCount": 1
+      },
+      {
+        "key": "grizzly kush",
+        "displayName": "Grizzly Kush",
+        "docCount": 1
+      },
+      {
+        "key": "gummo",
+        "displayName": "Gummo",
+        "docCount": 1
+      },
+      {
+        "key": "gummy bear",
+        "displayName": "Gummy Bear",
+        "docCount": 1
+      },
+      {
+        "key": "harlequin",
+        "displayName": "Harlequin",
+        "docCount": 1
+      },
+      {
+        "key": "hash plant",
+        "displayName": "Hash Plant",
+        "docCount": 1
+      },
+      {
+        "key": "hawaiian dutch treat",
+        "displayName": "Hawaiian Dutch Treat",
+        "docCount": 1
+      },
+      {
+        "key": "headband 818",
+        "displayName": "Headband 818",
+        "docCount": 1
+      },
+      {
+        "key": "headband x new highland orange",
+        "displayName": "Headband X New Highland Orange",
+        "docCount": 1
+      },
+      {
+        "key": "herijuana jack 33",
+        "displayName": "Herijuana Jack 33",
+        "docCount": 1
+      },
+      {
+        "key": "huckleberry",
+        "displayName": "Huckleberry",
+        "docCount": 1
+      },
+      {
+        "key": "husky kush",
+        "displayName": "Husky Kush",
+        "docCount": 1
+      },
+      {
+        "key": "hybrid ryo",
+        "displayName": "Hybrid Ryo",
+        "docCount": 1
+      },
+      {
+        "key": "ice cream cake",
+        "displayName": "Ice Cream Cake",
+        "docCount": 1
+      },
+      {
+        "key": "ivan the og",
+        "displayName": "Ivan The Og",
+        "docCount": 1
+      },
+      {
+        "key": "jack herer",
+        "displayName": "Jack Herer",
+        "docCount": 1
+      },
+      {
+        "key": "jacks dream",
+        "displayName": "Jacks Dream",
+        "docCount": 1
+      },
+      {
+        "key": "jahmba juice",
+        "displayName": "Jahmba Juice",
+        "docCount": 1
+      },
+      {
+        "key": "jesus og",
+        "displayName": "Jesus Og",
+        "docCount": 1
+      },
+      {
+        "key": "jillybean",
+        "displayName": "Jillybean",
+        "docCount": 1
+      },
+      {
+        "key": "juggernaut",
+        "displayName": "Juggernaut",
+        "docCount": 1
+      },
+      {
+        "key": "juicy fruit",
+        "displayName": "Juicy Fruit",
+        "docCount": 1
+      },
+      {
+        "key": "kali ",
+        "displayName": "Kali",
+        "docCount": 1
+      },
+      {
+        "key": "kgb",
+        "displayName": "Kgb",
+        "docCount": 1
+      },
+      {
+        "key": "kilauea haze",
+        "displayName": "Kilauea Haze",
+        "docCount": 1
+      },
+      {
+        "key": "kimbo kush",
+        "displayName": "Kimbo Kush",
+        "docCount": 2
+      },
+      {
+        "key": "kosher kush",
+        "displayName": "Kosher Kush",
+        "docCount": 1
+      },
+      {
+        "key": "l.a. cookies",
+        "displayName": "L.a. Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "la confidential",
+        "displayName": "La Confidential",
+        "docCount": 2
+      },
+      {
+        "key": "larry og",
+        "displayName": "Larry Og",
+        "docCount": 1
+      },
+      {
+        "key": "lasqueti haze",
+        "displayName": "Lasqueti Haze",
+        "docCount": 1
+      },
+      {
+        "key": "lavender",
+        "displayName": "Lavender",
+        "docCount": 1
+      },
+      {
+        "key": "lavender kush",
+        "displayName": "Lavender Kush",
+        "docCount": 1
+      },
+      {
+        "key": "lemon berry",
+        "displayName": "Lemon Berry",
+        "docCount": 1
+      },
+      {
+        "key": "lemon creamsicle",
+        "displayName": "Lemon Creamsicle",
+        "docCount": 1
+      },
+      {
+        "key": "lemon haze",
+        "displayName": "Lemon Haze",
+        "docCount": 1
+      },
+      {
+        "key": "lemon marmalade",
+        "displayName": "Lemon Marmalade",
+        "docCount": 1
+      },
+      {
+        "key": "lemon meringue",
+        "displayName": "Lemon Meringue",
+        "docCount": 3
+      },
+      {
+        "key": "lemon og kush",
+        "displayName": "Lemon Og Kush",
+        "docCount": 2
+      },
+      {
+        "key": "lemon wreck",
+        "displayName": "Lemon Wreck",
+        "docCount": 1
+      },
+      {
+        "key": "liberty haze",
+        "displayName": "Liberty Haze",
+        "docCount": 2
+      },
+      {
+        "key": "lifted og",
+        "displayName": "Lifted Og",
+        "docCount": 1
+      },
+      {
+        "key": "limoncello",
+        "displayName": "Limoncello",
+        "docCount": 1
+      },
+      {
+        "key": "loco #2",
+        "displayName": "Loco #2",
+        "docCount": 1
+      },
+      {
+        "key": "lodi dodi",
+        "displayName": "Lodi Dodi",
+        "docCount": 2
+      },
+      {
+        "key": "mango haze",
+        "displayName": "Mango Haze",
+        "docCount": 3
+      },
+      {
+        "key": "marmalade",
+        "displayName": "Marmalade",
+        "docCount": 1
+      },
+      {
+        "key": "maui waui",
+        "displayName": "Maui Waui",
+        "docCount": 1
+      },
+      {
+        "key": "maximillian",
+        "displayName": "Maximillian",
+        "docCount": 1
+      },
+      {
+        "key": "medi haze",
+        "displayName": "Medi Haze",
+        "docCount": 1
+      },
+      {
+        "key": "mendo afgoo",
+        "displayName": "Mendo Afgoo",
+        "docCount": 1
+      },
+      {
+        "key": "mendo breath",
+        "displayName": "Mendo Breath",
+        "docCount": 1
+      },
+      {
+        "key": "middle fork",
+        "displayName": "Middle Fork",
+        "docCount": 1
+      },
+      {
+        "key": "mimosa #2",
+        "displayName": "Mimosa #2",
+        "docCount": 1
+      },
+      {
+        "key": "mk ultra",
+        "displayName": "Mk Ultra",
+        "docCount": 4
+      },
+      {
+        "key": "narnia",
+        "displayName": "Narnia",
+        "docCount": 1
+      },
+      {
+        "key": "nl cheese haze",
+        "displayName": "Nl Cheese Haze",
+        "docCount": 1
+      },
+      {
+        "key": "nor cal blue",
+        "displayName": "Nor Cal Blue",
+        "docCount": 1
+      },
+      {
+        "key": "northern lights",
+        "displayName": "Northern Lights",
+        "docCount": 1
+      },
+      {
+        "key": "og lime killer",
+        "displayName": "Og Lime Killer",
+        "docCount": 1
+      },
+      {
+        "key": "ogesus",
+        "displayName": "Ogesus",
+        "docCount": 1
+      },
+      {
+        "key": "olympia glue #4",
+        "displayName": "Olympia Glue #4",
+        "docCount": 1
+      },
+      {
+        "key": "orange crush kush",
+        "displayName": "Orange Crush Kush",
+        "docCount": 1
+      },
+      {
+        "key": "orange valley og",
+        "displayName": "Orange Valley Og",
+        "docCount": 1
+      },
+      {
+        "key": "orange velvet",
+        "displayName": "Orange Velvet",
+        "docCount": 1
+      },
+      {
+        "key": "passion fruit",
+        "displayName": "Passion Fruit",
+        "docCount": 1
+      },
+      {
+        "key": "pbb x sss",
+        "displayName": "Pbb X Sss",
+        "docCount": 1
+      },
+      {
+        "key": "peach haze",
+        "displayName": "Peach Haze",
+        "docCount": 1
+      },
+      {
+        "key": "peyote critical",
+        "displayName": "Peyote Critical",
+        "docCount": 1
+      },
+      {
+        "key": "pineapple chunk",
+        "displayName": "Pineapple Chunk",
+        "docCount": 3
+      },
+      {
+        "key": "pineapple express",
+        "displayName": "Pineapple Express",
+        "docCount": 1
+      },
+      {
+        "key": "pink cookies",
+        "displayName": "Pink Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "plane wreck",
+        "displayName": "Plane Wreck",
+        "docCount": 1
+      },
+      {
+        "key": "platinum super glue",
+        "displayName": "Platinum Super Glue",
+        "docCount": 1
+      },
+      {
+        "key": "plushberry",
+        "displayName": "Plushberry",
+        "docCount": 1
+      },
+      {
+        "key": "presidential og",
+        "displayName": "Presidential Og",
+        "docCount": 1
+      },
+      {
+        "key": "prime",
+        "displayName": "Prime",
+        "docCount": 1
+      },
+      {
+        "key": "pure kush",
+        "displayName": "Pure Kush",
+        "docCount": 1
+      },
+      {
+        "key": "purple apollo 13",
+        "displayName": "Purple Apollo 13",
+        "docCount": 1
+      },
+      {
+        "key": "purple champagne",
+        "displayName": "Purple Champagne",
+        "docCount": 1
+      },
+      {
+        "key": "purple diesel",
+        "displayName": "Purple Diesel",
+        "docCount": 1
+      },
+      {
+        "key": "purple kush",
+        "displayName": "Purple Kush",
+        "docCount": 1
+      },
+      {
+        "key": "purple lemon haze",
+        "displayName": "Purple Lemon Haze",
+        "docCount": 1
+      },
+      {
+        "key": "purple og",
+        "displayName": "Purple Og",
+        "docCount": 2
+      },
+      {
+        "key": "purple pez",
+        "displayName": "Purple Pez",
+        "docCount": 1
+      },
+      {
+        "key": "purple pie",
+        "displayName": "Purple Pie",
+        "docCount": 1
+      },
+      {
+        "key": "purple punch",
+        "displayName": "Purple Punch",
+        "docCount": 2
+      },
+      {
+        "key": "purple sour diesel",
+        "displayName": "Purple Sour Diesel",
+        "docCount": 1
+      },
+      {
+        "key": "purps",
+        "displayName": "Purps",
+        "docCount": 1
+      },
+      {
+        "key": "quantum hammer",
+        "displayName": "Quantum Hammer",
+        "docCount": 1
+      },
+      {
+        "key": "quantum kush",
+        "displayName": "Quantum Kush",
+        "docCount": 2
+      },
+      {
+        "key": "quantum leap",
+        "displayName": "Quantum Leap",
+        "docCount": 1
+      },
+      {
+        "key": "querkle",
+        "displayName": "Querkle",
+        "docCount": 1
+      },
+      {
+        "key": "rainbow jones",
+        "displayName": "Rainbow Jones",
+        "docCount": 1
+      },
+      {
+        "key": "rainmaker",
+        "displayName": "Rainmaker",
+        "docCount": 1
+      },
+      {
+        "key": "ripped bubba",
+        "displayName": "Ripped Bubba",
+        "docCount": 1
+      },
+      {
+        "key": "rocket fuel",
+        "displayName": "Rocket Fuel",
+        "docCount": 1
+      },
+      {
+        "key": "romulan",
+        "displayName": "Romulan",
+        "docCount": 1
+      },
+      {
+        "key": "royal cake",
+        "displayName": "Royal Cake",
+        "docCount": 1
+      },
+      {
+        "key": "royal kush",
+        "displayName": "Royal Kush",
+        "docCount": 1
+      },
+      {
+        "key": "rude boi og",
+        "displayName": "Rude Boi Og",
+        "docCount": 2
+      },
+      {
+        "key": "sherbet",
+        "displayName": "Sherbet",
+        "docCount": 1
+      },
+      {
+        "key": "shrieker",
+        "displayName": "Shrieker",
+        "docCount": 1
+      },
+      {
+        "key": "silky johnson",
+        "displayName": "Silky Johnson",
+        "docCount": 1
+      },
+      {
+        "key": "silver thai",
+        "displayName": "Silver Thai",
+        "docCount": 1
+      },
+      {
+        "key": "sin mint",
+        "displayName": "Sin Mint",
+        "docCount": 1
+      },
+      {
+        "key": "sin mint #2",
+        "displayName": "Sin Mint #2",
+        "docCount": 1
+      },
+      {
+        "key": "sin valley og kush",
+        "displayName": "Sin Valley Og Kush",
+        "docCount": 1
+      },
+      {
+        "key": "skunk berry",
+        "displayName": "Skunk Berry",
+        "docCount": 1
+      },
+      {
+        "key": "skunk no. 1",
+        "displayName": "Skunk No. 1",
+        "docCount": 1
+      },
+      {
+        "key": "sky master",
+        "displayName": "Sky Master",
+        "docCount": 1
+      },
+      {
+        "key": "slurricane",
+        "displayName": "Slurricane",
+        "docCount": 1
+      },
+      {
+        "key": "snoop's dream",
+        "displayName": "Snoop's Dream",
+        "docCount": 1
+      },
+      {
+        "key": "snoops dream",
+        "displayName": "Snoops Dream",
+        "docCount": 2
+      },
+      {
+        "key": "snowdawg",
+        "displayName": "Snowdawg",
+        "docCount": 1
+      },
+      {
+        "key": "sour amnesia",
+        "displayName": "Sour Amnesia",
+        "docCount": 1
+      },
+      {
+        "key": "sour bubbly  inoculated",
+        "displayName": "Sour Bubbly Inoculated",
+        "docCount": 1
+      },
+      {
+        "key": "sour diesel",
+        "displayName": "Sour Diesel",
+        "docCount": 4
+      },
+      {
+        "key": "sour grape",
+        "displayName": "Sour Grape",
+        "docCount": 1
+      },
+      {
+        "key": "space queen",
+        "displayName": "Space Queen",
+        "docCount": 1
+      },
+      {
+        "key": "spiritual punk",
+        "displayName": "Spiritual Punk",
+        "docCount": 1
+      },
+      {
+        "key": "star dawg",
+        "displayName": "Star Dawg",
+        "docCount": 2
+      },
+      {
+        "key": "strawberry cough",
+        "displayName": "Strawberry Cough",
+        "docCount": 1
+      },
+      {
+        "key": "strawberry fields",
+        "displayName": "Strawberry Fields",
+        "docCount": 1
+      },
+      {
+        "key": "sunset blue",
+        "displayName": "Sunset Blue",
+        "docCount": 1
+      },
+      {
+        "key": "sunset sherbet",
+        "displayName": "Sunset Sherbet",
+        "docCount": 1
+      },
+      {
+        "key": "super lemon haze",
+        "displayName": "Super Lemon Haze",
+        "docCount": 2
+      },
+      {
+        "key": "super skunk",
+        "displayName": "Super Skunk",
+        "docCount": 1
+      },
+      {
+        "key": "taffie",
+        "displayName": "Taffie",
+        "docCount": 1
+      },
+      {
+        "key": "tahoe og kush",
+        "displayName": "Tahoe Og Kush",
+        "docCount": 1
+      },
+      {
+        "key": "tangerine cookies",
+        "displayName": "Tangerine Cookies",
+        "docCount": 1
+      },
+      {
+        "key": "tangerine dream",
+        "displayName": "Tangerine Dream",
+        "docCount": 1
+      },
+      {
+        "key": "tangerine power",
+        "displayName": "Tangerine Power",
+        "docCount": 1
+      },
+      {
+        "key": "tangie",
+        "displayName": "Tangie",
+        "docCount": 1
+      },
+      {
+        "key": "tangie power",
+        "displayName": "Tangie Power",
+        "docCount": 1
+      },
+      {
+        "key": "tavo",
+        "displayName": "Tavo",
+        "docCount": 1
+      },
+      {
+        "key": "tavo trim",
+        "displayName": "Tavo Trim",
+        "docCount": 1
+      },
+      {
+        "key": "the flav",
+        "displayName": "The Flav",
+        "docCount": 1
+      },
+      {
+        "key": "the future",
+        "displayName": "The Future",
+        "docCount": 1
+      },
+      {
+        "key": "the pineapple",
+        "displayName": "The Pineapple",
+        "docCount": 1
+      },
+      {
+        "key": "timewreck",
+        "displayName": "Timewreck",
+        "docCount": 2
+      },
+      {
+        "key": "training day",
+        "displayName": "Training Day",
+        "docCount": 2
+      },
+      {
+        "key": "trainwreck",
+        "displayName": "Trainwreck",
+        "docCount": 1
+      },
+      {
+        "key": "tripe x",
+        "displayName": "Tripe X",
+        "docCount": 1
+      },
+      {
+        "key": "triple chocolate chip",
+        "displayName": "Triple Chocolate Chip",
+        "docCount": 1
+      },
+      {
+        "key": "triple x",
+        "displayName": "Triple X",
+        "docCount": 1
+      },
+      {
+        "key": "ultrex",
+        "displayName": "Ultrex",
+        "docCount": 1
+      },
+      {
+        "key": "velvet pie",
+        "displayName": "Velvet Pie",
+        "docCount": 1
+      },
+      {
+        "key": "vortex",
+        "displayName": "Vortex",
+        "docCount": 1
+      },
+      {
+        "key": "washington apple",
+        "displayName": "Washington Apple",
+        "docCount": 1
+      },
+      {
+        "key": "wedding cake",
+        "displayName": "Wedding Cake",
+        "docCount": 2
+      },
+      {
+        "key": "wifi v1",
+        "displayName": "Wifi V1",
+        "docCount": 1
+      },
+      {
+        "key": "willie's wonder",
+        "displayName": "Willie's Wonder",
+        "docCount": 1
+      },
+      {
+        "key": "xj 13",
+        "displayName": "Xj 13",
+        "docCount": 2
+      },
+      {
+        "key": "xj-13",
+        "displayName": "Xj-13",
+        "docCount": 1
+      },
+      {
+        "key": "zambian",
+        "displayName": "Zambian",
+        "docCount": 1
+      },
+      {
+        "key": "zion's  quantum hammer",
+        "displayName": "Zion's Quantum Hammer",
+        "docCount": 1
+      }
+    ],
+    "brands": [
+      {
+        "key": "1937",
+        "displayName": "1937",
+        "docCount": 1
+      },
+      {
+        "key": "1937 farms",
+        "displayName": "1937 Farms",
+        "docCount": 10
+      },
+      {
+        "key": "4evergreen trees",
+        "displayName": "4evergreen Trees",
+        "docCount": 1
+      },
+      {
+        "key": "abc farms",
+        "displayName": "Abc Farms",
+        "docCount": 3
+      },
+      {
+        "key": "agro mechanix",
+        "displayName": "Agro Mechanix",
+        "docCount": 1
+      },
+      {
+        "key": "artizen",
+        "displayName": "Artizen",
+        "docCount": 2
+      },
+      {
+        "key": "artizen cannabis company",
+        "displayName": "Artizen Cannabis Company",
+        "docCount": 23
+      },
+      {
+        "key": "artizen popcorn",
+        "displayName": "Artizen Popcorn",
+        "docCount": 8
+      },
+      {
+        "key": "avitas",
+        "displayName": "Avitas",
+        "docCount": 6
+      },
+      {
+        "key": "bacons buds",
+        "displayName": "Bacons Buds",
+        "docCount": 13
+      },
+      {
+        "key": "bella jane's",
+        "displayName": "Bella Jane's",
+        "docCount": 5
+      },
+      {
+        "key": "buddha ",
+        "displayName": "Buddha",
+        "docCount": 10
+      },
+      {
+        "key": "c&d",
+        "displayName": "C&d",
+        "docCount": 1
+      },
+      {
+        "key": "cannaman",
+        "displayName": "Cannaman",
+        "docCount": 1
+      },
+      {
+        "key": "cannaman farms",
+        "displayName": "Cannaman Farms",
+        "docCount": 2
+      },
+      {
+        "key": "cannaman  farms",
+        "displayName": "Cannaman Farms",
+        "docCount": 1
+      },
+      {
+        "key": "cannaseur's choice",
+        "displayName": "Cannaseur's Choice",
+        "docCount": 1
+      },
+      {
+        "key": "capital city chronic",
+        "displayName": "Capital City Chronic",
+        "docCount": 10
+      },
+      {
+        "key": "capitol city chronic",
+        "displayName": "Capitol City Chronic",
+        "docCount": 1
+      },
+      {
+        "key": "chipper gardens",
+        "displayName": "Chipper Gardens",
+        "docCount": 3
+      },
+      {
+        "key": "clandestine",
+        "displayName": "Clandestine",
+        "docCount": 5
+      },
+      {
+        "key": "cut above",
+        "displayName": "Cut Above",
+        "docCount": 8
+      },
+      {
+        "key": "doc croc",
+        "displayName": "Doc Croc",
+        "docCount": 3
+      },
+      {
+        "key": "dream city",
+        "displayName": "Dream City",
+        "docCount": 13
+      },
+      {
+        "key": "dutch hawaiian",
+        "displayName": "Dutch Hawaiian",
+        "docCount": 1
+      },
+      {
+        "key": "emerald fields",
+        "displayName": "Emerald Fields",
+        "docCount": 3
+      },
+      {
+        "key": "fire cannabis",
+        "displayName": "Fire Cannabis",
+        "docCount": 17
+      },
+      {
+        "key": "fireline",
+        "displayName": "Fireline",
+        "docCount": 1
+      },
+      {
+        "key": "forte farms",
+        "displayName": "Forte Farms",
+        "docCount": 11
+      },
+      {
+        "key": "freddy's fuego",
+        "displayName": "Freddy's Fuego",
+        "docCount": 18
+      },
+      {
+        "key": "freedom",
+        "displayName": "Freedom",
+        "docCount": 3
+      },
+      {
+        "key": "freedom cannabis",
+        "displayName": "Freedom Cannabis",
+        "docCount": 2
+      },
+      {
+        "key": "from the soil",
+        "displayName": "From The Soil",
+        "docCount": 1
+      },
+      {
+        "key": "gaga",
+        "displayName": "Gaga",
+        "docCount": 2
+      },
+      {
+        "key": "gold mountain, inc.",
+        "displayName": "Gold Mountain, Inc.",
+        "docCount": 5
+      },
+      {
+        "key": "green envy",
+        "displayName": "Green Envy",
+        "docCount": 1
+      },
+      {
+        "key": "happy cannabis",
+        "displayName": "Happy Cannabis",
+        "docCount": 1
+      },
+      {
+        "key": "hemp kings",
+        "displayName": "Hemp Kings",
+        "docCount": 4
+      },
+      {
+        "key": "herb's oil",
+        "displayName": "Herb's Oil",
+        "docCount": 1
+      },
+      {
+        "key": "high altitude",
+        "displayName": "High Altitude",
+        "docCount": 1
+      },
+      {
+        "key": "high five farms",
+        "displayName": "High Five Farms",
+        "docCount": 2
+      },
+      {
+        "key": "high tide",
+        "displayName": "High Tide",
+        "docCount": 4
+      },
+      {
+        "key": "hill top growers",
+        "displayName": "Hill Top Growers",
+        "docCount": 2
+      },
+      {
+        "key": "hilltop",
+        "displayName": "Hilltop",
+        "docCount": 7
+      },
+      {
+        "key": "jackpot seaweed",
+        "displayName": "Jackpot Seaweed",
+        "docCount": 4
+      },
+      {
+        "key": "khush kush",
+        "displayName": "Khush Kush",
+        "docCount": 1
+      },
+      {
+        "key": "koala canyon",
+        "displayName": "Koala Canyon",
+        "docCount": 4
+      },
+      {
+        "key": "lifted",
+        "displayName": "Lifted",
+        "docCount": 1
+      },
+      {
+        "key": "lifted cannabis",
+        "displayName": "Lifted Cannabis",
+        "docCount": 6
+      },
+      {
+        "key": "lifted holdings",
+        "displayName": "Lifted Holdings",
+        "docCount": 4
+      },
+      {
+        "key": "mini budz",
+        "displayName": "Mini Budz",
+        "docCount": 1
+      },
+      {
+        "key": "noble farms",
+        "displayName": "Noble Farms",
+        "docCount": 3
+      },
+      {
+        "key": "northwest cannabis solutions",
+        "displayName": "Northwest Cannabis Solutions",
+        "docCount": 1
+      },
+      {
+        "key": "northwest grown",
+        "displayName": "Northwest Grown",
+        "docCount": 2
+      },
+      {
+        "key": "northwestpearl",
+        "displayName": "Northwestpearl",
+        "docCount": 2
+      },
+      {
+        "key": "nwcs",
+        "displayName": "Nwcs",
+        "docCount": 2
+      },
+      {
+        "key": "olympia cannabis",
+        "displayName": "Olympia Cannabis",
+        "docCount": 11
+      },
+      {
+        "key": "omg skyes",
+        "displayName": "Omg Skyes",
+        "docCount": 1
+      },
+      {
+        "key": "omg sykes",
+        "displayName": "Omg Sykes",
+        "docCount": 8
+      },
+      {
+        "key": "pacala,  inc",
+        "displayName": "Pacala, Inc",
+        "docCount": 1
+      },
+      {
+        "key": "liberty reach",
+        "displayName": "Pack of liberty r",
+        "docCount": 10
+      },
+      {
+        "key": "phat panda",
+        "displayName": "Phat Panda",
+        "docCount": 1
+      },
+      {
+        "key": "platinum gardens",
+        "displayName": "Platinum Gardens",
+        "docCount": 8
+      },
+      {
+        "key": "quality cannabis",
+        "displayName": "Quality Cannabis",
+        "docCount": 1
+      },
+      {
+        "key": "rochester",
+        "displayName": "Rochester",
+        "docCount": 2
+      },
+      {
+        "key": "rocket cannabis",
+        "displayName": "Rocket Cannabis",
+        "docCount": 3
+      },
+      {
+        "key": "root down",
+        "displayName": "Root Down",
+        "docCount": 6
+      },
+      {
+        "key": "seattle's private reserve",
+        "displayName": "Seattle's Private Reserve",
+        "docCount": 1
+      },
+      {
+        "key": "solstice",
+        "displayName": "Solstice",
+        "docCount": 5
+      },
+      {
+        "key": "sonic green",
+        "displayName": "Sonic Green",
+        "docCount": 2
+      },
+      {
+        "key": "sound cannabis",
+        "displayName": "Sound Cannabis",
+        "docCount": 2
+      },
+      {
+        "key": "sourface",
+        "displayName": "Sourface",
+        "docCount": 1
+      },
+      {
+        "key": "suncliff",
+        "displayName": "Suncliff",
+        "docCount": 3
+      },
+      {
+        "key": "suspended",
+        "displayName": "Suspended",
+        "docCount": 3
+      },
+      {
+        "key": "the happy cannabis",
+        "displayName": "The Happy Cannabis",
+        "docCount": 14
+      },
+      {
+        "key": "the lazy bee gardens",
+        "displayName": "The Lazy Bee Gardens",
+        "docCount": 1
+      },
+      {
+        "key": "top shelf",
+        "displayName": "Top Shelf",
+        "docCount": 6
+      },
+      {
+        "key": "virginia co.",
+        "displayName": "Virginia Co.",
+        "docCount": 3
+      },
+      {
+        "key": "virginia company",
+        "displayName": "Virginia Company",
+        "docCount": 1
+      },
+      {
+        "key": "viva cannabis",
+        "displayName": "Viva Cannabis",
+        "docCount": 3
+      },
+      {
+        "key": "washington bud  co ",
+        "displayName": "Washington Bud Co",
+        "docCount": 1
+      },
+      {
+        "key": "washington bud co",
+        "displayName": "Washington Bud Co",
+        "docCount": 1
+      },
+      {
+        "key": "washington bud company",
+        "displayName": "Washington Bud Company",
+        "docCount": 7
+      },
+      {
+        "key": "western cultured",
+        "displayName": "Western Cultured",
+        "docCount": 1
+      }
+    ],
+    "cultivars": [
+      {
+        "displayName": "Indica",
+        "key": "indica"
+      },
+      {
+        "displayName": "Sativa",
+        "key": "sativa"
+      },
+      {
+        "displayName": "Hybrid",
+        "key": "hybrid"
+      }
+    ],
+    "thcRanges": [],
+    "cbdRanges": [],
+    "strainCollections": [
+      {
+        "key": "beginner strain",
+        "displayName": "Beginner Strain",
+        "docCount": 2
+      },
+      {
+        "key": "classic strain",
+        "displayName": "Classic Strain",
+        "docCount": 3
+      },
+      {
+        "key": "potent strain",
+        "displayName": "Potent Strain",
+        "docCount": 1
+      }
+    ],
+    "filterNames": {
+      "strainTypeAggregation": "Strain Type",
+      "strainAggregation": "Strain",
+      "cbdAggregation": "CBD",
+      "thcAggregation": "THC",
+      "strainCollectionsAggregation": "Collection",
+      "brandAggregation": "Brand",
+      "unitWeightAggregation": "Unit Weight"
+    }
+  },
+  "menu": [
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 94033,
+      "strainName": "Ripped Bubba",
+      "strainRating": 4.24,
+      "strainDescription": "<p>Ripped Bubba is a 60% <a href=\"http://leafly.com/indica\">indica</a>-dominant <a href=\"http://leafly.com/hybrid\">hybrid</a> bred by TGA Genetics that crosses a resin-heavy <a href=\"http://www.leafly.com/indica/pre-98-bubba-kush\">Pre-98 Bubba Kush</a> with the flavorful and <a href=\"http://www.leafly.com/explore#!/explore/tags-euphoric\">euphoric</a> sativa <a href=\"http://www.leafly.com/hybrid/jack-the-ripper\">Jack the Ripper</a>. From its <a href=\"http://leafly.com/sativa\">sativa</a> parent, Ripped Bubba inherits complex flavoring that blends the <a href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\">sweetness</a> of cherries, <a href=\"http://www.leafly.com/explore#!/explore/flavors-berry\">blackberries</a>, and <a href=\"http://www.leafly.com/explore#!/explore/flavors-lemon\">lemon</a> with <a href=\"http://www.leafly.com/explore#!/explore/flavors-earthy\">earthy</a> <a href=\"http://www.leafly.com/explore#!/explore/flavors-spicyherbal\">spice</a>. Its other parent, Pre-98 Bubba Kush, passes on its thick <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/cannabis-anatomy-the-parts-of-the-plant\">trichome</a> coverage and THC-heavy <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/cannabinoids-101-what-makes-cannabis-medicine\">cannabinoid</a> profile. Ripped Bubba&rsquo;s potency is not overpowering, but instead promotes functional <a href=\"http://www.leafly.com/explore#!/explore/tags-creative\">creativity</a> and <a href=\"http://www.leafly.com/explore#!/explore/tags-focused\">focus</a>. Its buds are dense with purple-green hues contrasting against electric orange hairs, and will be ready for harvest 55 to 60 days into its flowering cycle indoors.</p>\n",
+      "strainShortDescription": "Ripped Bubba is a 60% indica strain bred by TGA Genetics that crosses a resinous Pre-98 Bubba Kush with the flavorful and euphoric Jack the Ripper.",
+      "strainSymbol": "Rb",
+      "strainSlug": "ripped-bubba",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 67,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Sweet",
+        "Flowery",
+        "Spicy/Herbal"
+      ],
+      "strainEffects": [
+        {
+          "name": "Happy",
+          "score": 28.92857142857143
+        },
+        {
+          "name": "Relaxed",
+          "score": 22.244897959183675
+        },
+        {
+          "name": "Uplifted",
+          "score": 17.142857142857142
+        },
+        {
+          "name": "Creative",
+          "score": 17.142857142857142
+        },
+        {
+          "name": "Focused",
+          "score": 16.377551020408163
+        }
+      ],
+      "brandName": "Washington Bud Company",
+      "brandSlug": "washington-bud-company",
+      "name": "Ripped Bubba by Washington Bud Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 22.3,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668809,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 59,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 89,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 175,
+      "strainName": "Dutch Treat",
+      "strainRating": null,
+      "strainDescription": "<p>Over the years, Dutch Treat has become an essential strain of the Amsterdam coffee shops. The dense, sticky buds have an intense smell of <a href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\">sweet</a> <a href=\"http://www.leafly.com/explore#!/explore/flavors-tree-fruit\">fruits</a> mixed with <a href=\"http://www.leafly.com/explore#!/explore/flavors-pine\">pine</a> and eucalyptus trees. The cerebral high comes on quick and leaves consumers feeling <a href=\"http://www.leafly.com/explore#!/explore/tags-uplifted\">uplifted</a> and <a href=\"http://www.leafly.com/explore#!/explore/tags-euphoric\">euphoric</a> while reducing <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a> and <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relaxing</a> the mind.</p>\n",
+      "strainShortDescription": "Smelling of sweet pine and citrus, Dutch Treat has a THC of up to 18% with a taste of eucalyptus.",
+      "strainSymbol": "Dt",
+      "strainSlug": "dutch-treat",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/dutch-treat.jpg",
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Sweet",
+        "Pine",
+        "Spicy/Herbal"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 85.69268563175405
+        },
+        {
+          "name": "Euphoric",
+          "score": 71.07619993294303
+        },
+        {
+          "name": "Happy",
+          "score": 65.57537891488063
+        },
+        {
+          "name": "Uplifted",
+          "score": 50.26554131311307
+        },
+        {
+          "name": "Focused",
+          "score": 44.061804176445804
+        }
+      ],
+      "brandName": "Washington Bud Company",
+      "brandSlug": "washington-bud-company",
+      "name": "Dutch Treat by Washington Bud Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 24.29,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10878344,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 89,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 292,
+      "strainName": "Blackberry Kush",
+      "strainRating": null,
+      "strainDescription": "<p dir=\"ltr\" style=\"line-height:1.15;margin-top:0pt;margin-bottom:0pt;\">This mostly indica strain is a mix of <a href=\"http://www.leafly.com/indica/afghani\">Afghani</a> and <a href=\"http://www.leafly.com/hybrid/blackberry\">Blackberry</a> strains and has beautiful dark purple buds with orange hairs. Plants will flower at 7-8 weeks and are not particularly high yielders, but the dense, hard nugs have crystals throughout. Blackberry Kush tends to have a hashy, jet fuel smell and taste that is balanced by sweet berries. Blackberry Kush is often recommended for the treatment of pain thanks to its strong indica body effects.</p>\n\n<p dir=\"ltr\" style=\"line-height:1.15;margin-top:0pt;margin-bottom:0pt;\">&nbsp;</p>\n",
+      "strainShortDescription": "Blackberry Kush is an indica dominant cannabis strain that is a mix of Afghani and Blackberry strains. Medicinally, it is often used for pain relief.",
+      "strainSymbol": "Bbk",
+      "strainSlug": "blackberry-kush",
+      "strainCategory": "Indica",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Berry",
+        "Sweet",
+        "Earthy"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 93.14103572885703
+        },
+        {
+          "name": "Sleepy",
+          "score": 71.13223465640846
+        },
+        {
+          "name": "Happy",
+          "score": 51.04482135571487
+        },
+        {
+          "name": "Euphoric",
+          "score": 48.55643469137961
+        },
+        {
+          "name": "Hungry",
+          "score": 36.878679256280236
+        }
+      ],
+      "brandName": "Washington Bud Co",
+      "brandSlug": null,
+      "name": "Blackberry Kush by Washington Bud Co",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 25,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10926541,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 175,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Atf",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Clandestine",
+      "brandSlug": null,
+      "name": "Atf by Clandestine",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 27.37,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0.05,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668657,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Granddaddy Dutch",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Clandestine",
+      "brandSlug": null,
+      "name": "Granddaddy Dutch by Clandestine",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 23.09,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668658,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 80815,
+      "strainName": "Dr. Who",
+      "strainRating": 4.498812351543943,
+      "strainDescription": "<p>Navigate the planes of time and space with Dr. Who, a potent <a href=\"http://leafly.com/indica\">indica</a> <a href=\"http://leafly.com/hybrid\">hybrid</a>&nbsp;originally from Homegrown Natural Wonders&nbsp;who wittily combined parent strains <a href=\"http://www.leafly.com/indica/mad-scientist\">Mad Scientist</a> and <a href=\"http://www.leafly.com/sativa/timewreck\">Timewreck</a>. This 60% indica strain can deliver swift relief to <a href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\">pain</a>, <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a>, <a href=\"http://www.leafly.com/explore#!/explore/symptoms-lack-of-appetite\">appetite loss</a>, <a href=\"http://www.leafly.com/explore#!/explore/conditions-multiple-sclerosis\">multiple sclerosis</a>, <a href=\"http://www.leafly.com/explore#!/explore/conditions-addadhd\">ADHD</a>, <a href=\"http://www.leafly.com/explore#!/explore/conditions-anxiety\">mood disorders</a>, and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-nausea\">nausea</a> without lethargy or <a href=\"http://www.leafly.com/explore#!/explore/tags-sleepy\">sedation</a>, making Dr. Who a good choice for any time of the day. Its effects are precluded by a sweet and sour aroma of <a href=\"http://www.leafly.com/explore#!/explore/flavors-pineapple\">pineapple</a> and <a href=\"http://www.leafly.com/explore#!/explore/flavors-grape\">grape</a>. Dr. Who flowers in 56 to 63 days indoors, but also grows well in outdoor gardens.</p>\n",
+      "strainShortDescription": "Dr. Who is a 60% indica hybrid cross between Mad Scientist and Timewreck.",
+      "strainSymbol": "Drw",
+      "strainSlug": "dr-who",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 374,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pungent",
+        "Woody"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 79.4278627589161
+        },
+        {
+          "name": "Happy",
+          "score": 74.28899114261631
+        },
+        {
+          "name": "Euphoric",
+          "score": 70.06681037460791
+        },
+        {
+          "name": "Uplifted",
+          "score": 55.488814271304015
+        },
+        {
+          "name": "Talkative",
+          "score": 36.44606115878346
+        }
+      ],
+      "brandName": "Clandestine",
+      "brandSlug": null,
+      "name": "Dr. Who by Clandestine",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 20.2,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.08,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668676,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 35,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 11,
+      "strainName": "Granddaddy Purple",
+      "strainRating": 4.4341784495368115,
+      "strainDescription": "<p>Introduced in 2003 by Ken Estes, Granddaddy Purple (or GDP) is a famous <a href=\"http://www.leafly.com/indica\">indica</a> cross between <a href=\"http://www.leafly.com/indica/purple-urkle\">Purple Urkle</a> and <a href=\"http://www.leafly.com/hybrid/big-bud\">Big Bud</a>. This California staple inherits a complex <a href=\"http://www.leafly.com/explore/flavors-grape\">grape</a> and <a href=\"http://www.leafly.com/explore/flavors-berry\">berry</a> aroma from its Purple Urkle parent, while Big Bud passes on its oversized, compact bud structure. GDP flowers bloom in shades of deep purple, a contrastive backdrop for its snow-like dusting of white crystal resin.</p>\n\n<p>Its potent effects are clearly detectable in both mind and body, delivering a fusion of cerebral <a href=\"http://www.leafly.com/explore/tags-euphoric\">euphoria</a> and physical <a href=\"http://www.leafly.com/explore/tags-relaxed\">relaxation</a>. While your thoughts may float in a dreamy buzz, your body is more likely to find itself fixed in one spot for the duration of GDP&rsquo;s effects. Like most heavy indica varieties, Granddaddy Purple is typically pulled off the shelf for consumers looking to combat <a href=\"http://www.leafly.com/explore/symptoms-pain\">pain</a>, <a href=\"http://www.leafly.com/explore/symptoms-stress\">stress</a>, <a href=\"http://www.leafly.com/explore/symptoms-insomnia\">insomnia</a>, <a href=\"http://www.leafly.com/explore/symptoms-lack-of-appetite\">appetite loss</a>, and <a href=\"http://www.leafly.com/explore/symptoms-muscle-spasms\">muscle spasms</a>. GDP blesses growers with massive commercial yields which are ready for harvest following a 60 day flowering time indoors.</p>\n",
+      "strainShortDescription": "Introduced in 2003 by Ken Estes, Granddaddy Purple is a famous indica cross between Purple Urkle and Big Bud.",
+      "strainSymbol": "Gdp",
+      "strainSlug": "granddaddy-purple",
+      "strainCategory": "Indica",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/granddaddy-purple.png",
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 3210,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Grape",
+        "Berry",
+        "Sweet"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 85.6033554836006
+        },
+        {
+          "name": "Sleepy",
+          "score": 63.66618809801807
+        },
+        {
+          "name": "Euphoric",
+          "score": 56.94478828591855
+        },
+        {
+          "name": "Happy",
+          "score": 51.09673523905094
+        },
+        {
+          "name": "Hungry",
+          "score": 35.892163010230334
+        }
+      ],
+      "brandName": "Clandestine",
+      "brandSlug": null,
+      "name": "Granddaddy Purple by Clandestine",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 19.28,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.1,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668677,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Grapefruit X Nph",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Clandestine",
+      "brandSlug": null,
+      "name": "Grapefruit X Nph by Clandestine",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 15.32,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.04,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668682,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Galactic Glue",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Olympia Cannabis",
+      "brandSlug": null,
+      "name": "Galactic Glue by Olympia Cannabis",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 20,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10878361,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 39,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 149,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 59503,
+      "strainName": "Black Cherry Soda",
+      "strainRating": 4.304733727810651,
+      "strainDescription": "<p>Black Cherry Soda&nbsp;is a <a href=\"http://leafly.com/hybrid\">hybrid</a> strain&nbsp;named after its fruity, soda-like taste and unusually dark purple color. This strain has spawned other favorites like <a href=\"http://www.leafly.com/hybrid/black-dhalia\">Black Dahlia</a> and <a href=\"http://www.leafly.com/indica/ace-of-spades\">Ace of Spades</a>, and despite its intensely indica appearance, its effects reach the mind and body in a balance more characteristic of sativa strains. Black Cherry Soda is a potent medicine that hits without heavy sedation, making it popular among patients treating severe symptoms throughout the day.</p>\n",
+      "strainShortDescription": "Black Cherry Soda by TGA Genetics is an indica cannabis strain named after its fruity, soda-like taste and unusually dark purple color.",
+      "strainSymbol": "Bcs",
+      "strainSlug": "black-cherry-soda",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 269,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Sweet",
+        "Earthy",
+        "Flowery"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 114.53108828914897
+        },
+        {
+          "name": "Happy",
+          "score": 89.23533158188042
+        },
+        {
+          "name": "Aroused",
+          "score": 57.62240267494626
+        },
+        {
+          "name": "Uplifted",
+          "score": 53.81339065361038
+        },
+        {
+          "name": "Talkative",
+          "score": 42.72191704482127
+        }
+      ],
+      "brandName": "Rochester",
+      "brandSlug": null,
+      "name": "Black Cherry Soda by Rochester",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 27.51,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668621,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 29,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 59,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 65623,
+      "strainName": "Kimbo Kush",
+      "strainRating": 4.438709677419355,
+      "strainDescription": "<p class=\"p1\">Kimbo Kush, named for the late Kimbo Slice, is a beautifully flavorful indica-dominant hybrid with a lineage that is fruity and stunning. A cross between <a href=\"https://www.leafly.com/indica/blackberry-kush\">Blackberry Kush</a> and <a href=\"https://www.leafly.com/hybrid/starfighter\">Starfighter</a>, this strong parentage offers a heavier than average Kush experience, leaning closer to a full indica buzz with every puff. Starfighter supplies Kimbo with a touch of citrus and a brightness that illuminates the thoughtful elements of its Kush genetics. Enjoy this strain at the end of the day, as it can have potent relaxing effects that might give you the 1-2 punch K.O. Kimbo Slice was known for.<span style=\"line-height: 1.6em;\">&nbsp;</span></p>\n",
+      "strainShortDescription": "Kimbo Kush from Exotic Genetix is a hybrid strain that competed in the 2014 L.A. Cannabis Cup.",
+      "strainSymbol": "Kim",
+      "strainSlug": "kimbo-kush",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": [
+        "Potent Strain"
+      ],
+      "strainPublicReviewCount": 125,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pungent",
+        "Woody"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 66.18720714830555
+        },
+        {
+          "name": "Uplifted",
+          "score": 49.37615778576876
+        },
+        {
+          "name": "Happy",
+          "score": 48.91849188187861
+        },
+        {
+          "name": "Sleepy",
+          "score": 37.58036395336166
+        },
+        {
+          "name": "Tingly",
+          "score": 23.874904652936685
+        }
+      ],
+      "brandName": "Bacons Buds",
+      "brandSlug": null,
+      "name": "Kimbo Kush by Bacons Buds",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 26.59,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0.24,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668817,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 89,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Taffie",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Bacons Buds",
+      "brandSlug": null,
+      "name": "Taffie by Bacons Buds",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 28.56,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668783,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "OG Lime Killer",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Bacons Buds",
+      "brandSlug": null,
+      "name": "OG Lime Killer by Bacons Buds",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 27.82,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0.42,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668820,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Citrus Farmer",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Bacons Buds",
+      "brandSlug": null,
+      "name": "Citrus Farmer by Bacons Buds",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 24,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10878307,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 4196,
+      "strainName": "Allen Wrench",
+      "strainRating": 4.269005847953216,
+      "strainDescription": "<p>A popular strain for sativa-lovers, Allen Wrench presents the best qualities of its parents, <a href=\"http://www.leafly.com/hybrid/trainwreck\">Trainwreck</a> and <a href=\"http://www.leafly.com/hybrid/nyc-diesel\">NYC&nbsp;Diesel</a> with crisp flavors of sour fruit. Its aroma has been characterized as sour&nbsp;and flowery, leaving a lingering scent of fruit.&nbsp;Allen Wrench is known to provide users with a long-lasting cerebral high and fill an entire room with its strong essence. The buds have a dark-green color and dark foliage with orange pistils growing out. Allen Wrench also has a&nbsp;10-11 week&nbsp;flowering time and medium to medium-high THC content.</p>\n",
+      "strainShortDescription": "A popular strain for sativa-lovers, Allen Wrench presents the best qualities of its parents Trainwreck and New York City Diesel.",
+      "strainSymbol": "Aw",
+      "strainSlug": "allen-wrench",
+      "strainCategory": "Sativa",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/allen-wrench.jpg",
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 141,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pungent",
+        "Citrus"
+      ],
+      "strainEffects": [
+        {
+          "name": "Focused",
+          "score": 45.42081949058692
+        },
+        {
+          "name": "Happy",
+          "score": 45.132890365448496
+        },
+        {
+          "name": "Energetic",
+          "score": 43.853820598006635
+        },
+        {
+          "name": "Uplifted",
+          "score": 43.7375415282392
+        },
+        {
+          "name": "Creative",
+          "score": 39.44075304540421
+        }
+      ],
+      "brandName": "Artizen Cannabis Company",
+      "brandSlug": null,
+      "name": "Allen Wrench by Artizen Cannabis Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 26,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0.3,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668560,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 35,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 139,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 4196,
+      "strainName": "Allen Wrench",
+      "strainRating": null,
+      "strainDescription": "<p>A popular strain for sativa-lovers, Allen Wrench presents the best qualities of its parents, <a href=\"http://www.leafly.com/hybrid/trainwreck\">Trainwreck</a> and <a href=\"http://www.leafly.com/hybrid/nyc-diesel\">NYC&nbsp;Diesel</a> with crisp flavors of sour fruit. Its aroma has been characterized as sour&nbsp;and flowery, leaving a lingering scent of fruit.&nbsp;Allen Wrench is known to provide users with a long-lasting cerebral high and fill an entire room with its strong essence. The buds have a dark-green color and dark foliage with orange pistils growing out. Allen Wrench also has a&nbsp;10-11 week&nbsp;flowering time and medium to medium-high THC content.</p>\n",
+      "strainShortDescription": "A popular strain for sativa-lovers, Allen Wrench presents the best qualities of its parents Trainwreck and New York City Diesel.",
+      "strainSymbol": "Aw",
+      "strainSlug": "allen-wrench",
+      "strainCategory": "Sativa",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/allen-wrench.jpg",
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pungent",
+        "Citrus"
+      ],
+      "strainEffects": [
+        {
+          "name": "Focused",
+          "score": 45.42081949058692
+        },
+        {
+          "name": "Happy",
+          "score": 45.132890365448496
+        },
+        {
+          "name": "Energetic",
+          "score": 43.853820598006635
+        },
+        {
+          "name": "Uplifted",
+          "score": 43.7375415282392
+        },
+        {
+          "name": "Creative",
+          "score": 39.44075304540421
+        }
+      ],
+      "brandName": "Artizen",
+      "brandSlug": null,
+      "name": "Allen Wrench by Artizen",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 20.7,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.3,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668563,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 69,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 105103,
+      "strainName": "Mango Haze",
+      "strainRating": 4.511210762331839,
+      "strainDescription": "<p>Mango Haze is a mostly <a href=\"http://leafly.com/sativa\">sativa</a> strain bred by Mr. Nice Seeds, who crossed <a href=\"http://www.leafly.com/hybrid/northern-lights--5\">Northern Lights #5</a>, <a href=\"http://www.leafly.com/hybrid/skunk-1\">Skunk</a>, and <a href=\"http://www.leafly.com/sativa/haze\">Haze</a> to create this <a href=\"http://www.leafly.com/explore#!/explore/tags-uplifted\">uplifting</a>, <a href=\"http://www.leafly.com/explore#!/explore/flavors-tree-fruit\">fruity</a> variety. Though similar to its sibling strain <a href=\"http://www.leafly.com/sativa/super-silver-haze\">Super Silver Haze</a>, Mango Haze exhibits a distinctive <a href=\"http://www.leafly.com/explore#!/explore/flavors-mango\">mango</a> aroma coupled with a buzzing cerebral sensation.&nbsp;</p>\n",
+      "strainShortDescription": "Mango Haze is a mostly sativa strain bred by Mr. Nice Seeds, who crossed Northern Lights #5, Skunk, and Haze to create this uplifting, fruity variety.",
+      "strainSymbol": "Mgh",
+      "strainSlug": "mango-haze",
+      "strainCategory": "Sativa",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 182,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Mango",
+        "Tropical",
+        "Citrus"
+      ],
+      "strainEffects": [
+        {
+          "name": "Happy",
+          "score": 63.04347826086956
+        },
+        {
+          "name": "Euphoric",
+          "score": 56.30434782608695
+        },
+        {
+          "name": "Uplifted",
+          "score": 54.800724637681164
+        },
+        {
+          "name": "Relaxed",
+          "score": 54.6195652173913
+        },
+        {
+          "name": "Energetic",
+          "score": 29.411231884057973
+        }
+      ],
+      "brandName": "Artizen Cannabis Company",
+      "brandSlug": null,
+      "name": "Mango Haze by Artizen Cannabis Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 7.76,
+      "thcUnit": "percent",
+      "thcPips": 1,
+      "cbdContent": 10,
+      "cbdUnit": "percent",
+      "cbdPips": 2,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668749,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 14,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 40,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 79,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 155,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        },
+        {
+          "packageUnit": "oz",
+          "packageSize": 1,
+          "packagePrice": 289,
+          "quantityRange": 5,
+          "packageDisplayUnit": "1 oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 144111,
+      "strainName": "Cheese Candy",
+      "strainRating": 4.333333333333333,
+      "strainDescription": "<p>Cheese Candy by Delicious Seeds is the <a href=\"http://www.leafly.com/explore/category-hybrid\">hybrid</a> lovechild of <a href=\"http://www.leafly.com/hybrid/cheese\">Cheese</a> and <a href=\"http://www.leafly.com/sativa/caramelo\">Caramelo</a>, a combination of parent strains that results in an unusual fusion of <a href=\"http://www.leafly.com/explore/flavors-sweet\">sweet</a> candy and sharp <a href=\"http://www.leafly.com/explore/flavors-cheese\">cheese</a> flavors. The sweet and sour aroma is accented by <a href=\"http://www.leafly.com/explore/flavors-flowery\">flowery</a>, <a href=\"http://www.leafly.com/explore/flavors-tree-fruit\">fruity</a> flavors which usher in Cheese Candy&rsquo;s deeply <a href=\"http://www.leafly.com/explore/tags-relaxed\">relaxing</a> characteristics. Its long, slender buds are wrapped in fiery orange hairs that stand in vibrant contrast to this hybrid&rsquo;s sage green hues.</p>\n",
+      "strainShortDescription": "Cheese Candy by Delicious Seeds is the hybrid lovechild of Cheese and Caramelo, a genetic combination of parent strains that results in an unusual fusion of sweet candy and sharp cheese flavors.",
+      "strainSymbol": "Csc",
+      "strainSlug": "cheese-candy",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 51,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Pungent",
+        "Flowery",
+        "Cheese"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 53.98009950248757
+        },
+        {
+          "name": "Hungry",
+          "score": 47.636815920398014
+        },
+        {
+          "name": "Focused",
+          "score": 36.318407960198996
+        },
+        {
+          "name": "Uplifted",
+          "score": 31.71641791044776
+        },
+        {
+          "name": "Euphoric",
+          "score": 30.970149253731343
+        }
+      ],
+      "brandName": "Doc Croc",
+      "brandSlug": "doc-croc",
+      "name": "Cheese Candy by Doc Croc",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 26.8,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668583,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 65,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Ewok",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Northwest Grown",
+      "brandSlug": "northwest-grown",
+      "name": "Ewok by Northwest Grown",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 24.67,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668638,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 30,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 59,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 25,
+      "strainName": "Northern Lights",
+      "strainRating": 4.43879472693032,
+      "strainDescription": "<p><a href=\"http://www.leafly.com/news/products/strain-highlight-northern-lights-the-indica-legend-up-close\">Northern Lights</a> stands among the most famous strains of all time, a pure <a href=\"http://leafly.com/indica\">indica</a> cherished for its resinous buds, fast flowering, and resilience during growth. Itself a descendant of indigenous <a href=\"http://leafly.com/indica/afghani\">Afghani</a>&nbsp;and <a href=\"https://www.leafly.com/sativa/thai\">Thai</a>&nbsp;<a href=\"http://www.leafly.com/knowledge-center/cannabis-101/the-cannabis-origin-what-is-a-landrace-strain\">landrace strains</a>, Northern Lights has given rise to famous <a href=\"http://leafly.com/hybrid\">hybrids</a> like&nbsp;<a href=\"http://www.leafly.com/hybrid/shiva-skunk\">Shiva Skunk</a>&nbsp;and <a href=\"http://www.leafly.com/sativa/super-silver-haze\">Super Silver Haze</a>. Rumor has it that Northern Lights first sprouted near Seattle, Washington, but was propagated out of Holland after 1985 at what is now Sensi Seeds.</p>\n\n<p>Pungently <a href=\"http://www.leafly.com/explore#!/explore/flavors-sweet\">sweet</a>, <a href=\"http://www.leafly.com/explore#!/explore/flavors-spicyherbal\">spicy</a> aromas radiate from the crystal-coated buds, which sometimes reveal themselves in hues of purple. Northern Lights&rsquo; psychoactive effects settle in firmly throughout the body, <a href=\"http://www.leafly.com/explore#!/explore/tags-relaxed\">relaxing</a> muscles and pacifying the mind in dreamy <a href=\"http://www.leafly.com/explore#!/explore/tags-euphoric\">euphoria</a>. Comfortable laziness allows patients to relieve <a href=\"http://www.leafly.com/explore#!/explore/symptoms-pain\">pain</a> and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-insomnia\">sleeplessness</a>, while its mellow contentment roots out <a href=\"http://www.leafly.com/explore#!/explore/symptoms-depression\">depression</a> and <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a>. Several different Northern Lights <a href=\"http://www.leafly.com/knowledge-center/cannabis-101/cannabis-genotypes-and-phenotypes-what-makes-a-strain-unique\">phenotypes</a> circulate the market, but Sensi Seeds recommends a general indoor flowering time of 45 to 50 days.</p>\n",
+      "strainShortDescription": "Northern Lights is a pure indica strain cherished for its resinous buds, fast flowering, and resilience during growth.",
+      "strainSymbol": "Nl",
+      "strainSlug": "northern-lights",
+      "strainCategory": "Indica",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/northern-lights.png",
+      "strainLeaflyCollections": [
+        "Classic Strain"
+      ],
+      "strainPublicReviewCount": 2069,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Sweet",
+        "Pine"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 85.09765697234907
+        },
+        {
+          "name": "Happy",
+          "score": 63.376553154536566
+        },
+        {
+          "name": "Sleepy",
+          "score": 56.87743818818486
+        },
+        {
+          "name": "Euphoric",
+          "score": 52.5357970776507
+        },
+        {
+          "name": "Hungry",
+          "score": 39.8608633164833
+        }
+      ],
+      "brandName": "Hill Top Growers",
+      "brandSlug": null,
+      "name": "Northern Lights by Hill Top Growers",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 15.1,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.2,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668717,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 29,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 180,
+      "strainName": "Super Lemon Haze",
+      "strainRating": 4.440449438202247,
+      "strainDescription": "<p>A sativa-dominant&nbsp;hybrid of <a href=\"https://www.leafly.com/hybrid/lemon-skunk\">Lemon Skunk</a> and <a href=\"https://www.leafly.com/sativa/super-silver-haze\">Super Silver Haze</a> and two time Cannabis Cup winner from Green House Seeds. Super Lemon Haze is a kief-caked multi-colored wonder. As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it&#39;s everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.</p>\n",
+      "strainShortDescription": "Super Lemon Haze from Green House Seeds is a cross between Lemon Skunk and Super Silver Haze. This strain has a lemon smell and a sweet taste.",
+      "strainSymbol": "Slh",
+      "strainSlug": "super-lemon-haze",
+      "strainCategory": "Sativa",
+      "strainImage": null,
+      "strainNugImage": "https://s3-us-west-2.amazonaws.com/leafly-images/flower-images/super-lemon-haze.jpg",
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 1444,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Lemon",
+        "Citrus",
+        "Sweet"
+      ],
+      "strainEffects": [
+        {
+          "name": "Energetic",
+          "score": 54.15146468208238
+        },
+        {
+          "name": "Happy",
+          "score": 53.24522408555189
+        },
+        {
+          "name": "Euphoric",
+          "score": 49.257801327921285
+        },
+        {
+          "name": "Uplifted",
+          "score": 49.12223299270454
+        },
+        {
+          "name": "Focused",
+          "score": 39.65749478063773
+        }
+      ],
+      "brandName": "Western Cultured",
+      "brandSlug": "western-cultured",
+      "name": "Super Lemon Haze by Western Cultured",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 25.82,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668625,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 70,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Alaska Thunder F**K",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Northwest Grown",
+      "brandSlug": "northwest-grown",
+      "name": "Alaska Thunder F**K by Northwest Grown",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 20.44,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668637,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 59,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 2268,
+      "strainName": "Lemon OG Kush",
+      "strainRating": 4.305912596401028,
+      "strainDescription": "<p>What this skunky indica lacks in longevity it makes up for in speed. A cross between the mythical Las Vegas Lemon Skunk and The OG #18, Lemon OG provides users with a quick-acting sleepy head sensation. While Lemon OG has inherited a skunky aroma from its kush relatives, this particular strain is mild tasting and pleasant smelling with fruity undertones. Lemon OG tends to feel more psychoactive than other members of the kush family, but still offers a heavy, medicated feel. The strain is great for stress relief and increasing appetite. These plants usually flower in 8-10 weeks.</p>\n",
+      "strainShortDescription": "Lemon OG is a lemony indica cross of Skunk and OG strains.",
+      "strainSymbol": "Leg",
+      "strainSlug": "lemon-og",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 326,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Lemon",
+        "Citrus",
+        "Earthy"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 60.89370768382931
+        },
+        {
+          "name": "Happy",
+          "score": 58.861793418359305
+        },
+        {
+          "name": "Creative",
+          "score": 38.969092793785755
+        },
+        {
+          "name": "Uplifted",
+          "score": 38.26713094175896
+        },
+        {
+          "name": "Euphoric",
+          "score": 34.956081938102486
+        }
+      ],
+      "brandName": "Top Shelf",
+      "brandSlug": "top-shelf",
+      "name": "Lemon Og by Top Shelf",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 24.42,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.05,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668573,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 65,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 112,
+      "strainName": "Romulan",
+      "strainRating": 4.231274638633377,
+      "strainDescription": "<p>Romulan, named after the alien Star Trek race, is a powerful indica revered for its potent therapeutic qualities. Though mostly indica, Romulan growers insist sativa genetics have crept in over time, lending it intense cerebral effects. These squat, pine-scented plants produce dense frosty buds that have found their following among connoisseurs in British Columbia&nbsp;and the Pacific Northwest. A deep, sedating relaxation makes Romulan a favorite strain for patients treating muscle spasms and nerve damage. Many hybridized variations of Romulan exist, but nearly all can promise a full body calm with heavily intoxicating properties.</p>\n",
+      "strainShortDescription": "Romulan, named after the alien Star Trek race, is a powerful indica revered for its potent therapeutic qualities.",
+      "strainSymbol": "Rom",
+      "strainSlug": "romulan",
+      "strainCategory": "Indica",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 622,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pine",
+        "Sweet"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 83.33390092446075
+        },
+        {
+          "name": "Sleepy",
+          "score": 67.50311119136586
+        },
+        {
+          "name": "Happy",
+          "score": 49.038817425206005
+        },
+        {
+          "name": "Hungry",
+          "score": 40.825351418106635
+        },
+        {
+          "name": "Euphoric",
+          "score": 38.412402737320406
+        }
+      ],
+      "brandName": "Northwestpearl",
+      "brandSlug": null,
+      "name": "Romulan by Northwestpearl",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 20.1,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.1,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668571,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 75,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 233071,
+      "strainName": "Cherry Sherbet",
+      "strainRating": 4.21875,
+      "strainDescription": "<p>Cherry Sherbet is an indica-dominant delight. This stinky sweet herb is the genetic cross of Sour Sherbet and&nbsp;<a href=\"https://www.leafly.com/hybrid/cherry-pie\">Cherry Pie</a>. These heavy-hitting buds will smoke sweet and tangy, settling behind the eyes and melting over the body, coating the smoker in a warm physical buzz coupled with an unlifted cerebral haze. Pack a bowl of this fine flower to help combat depression and chronic anxiety. &nbsp; &nbsp;&nbsp;</p>\n",
+      "strainShortDescription": "Cherry Sherbet is an indica-dominant delight. This stinky sweet herb is the genetic cross of Sour Sherbet and Cherry Pie.",
+      "strainSymbol": "Cst",
+      "strainSlug": "cherry-sherbet",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 28,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Sweet",
+        "Berry",
+        "Flowery"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 103.6111111111111
+        },
+        {
+          "name": "Happy",
+          "score": 101.52777777777777
+        },
+        {
+          "name": "Sleepy",
+          "score": 68.88888888888889
+        },
+        {
+          "name": "Tingly",
+          "score": 56.80555555555555
+        },
+        {
+          "name": "Giggly",
+          "score": 47.49999999999999
+        }
+      ],
+      "brandName": "NWCS",
+      "brandSlug": null,
+      "name": "Cherry Sherbet by NWCS",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 23.4,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.24,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668575,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 70,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 239602,
+      "strainName": "Blackberry Chem OG",
+      "strainRating": 4.1875,
+      "strainDescription": "<p>Blackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of <a href=\"https://www.leafly.com/hybrid/blackberry\">Blackberry</a> with the gently stimulating&nbsp;but overall subdued <a href=\"https://www.leafly.com/hybrid/chemdawg\">Chemdawg</a>. This strain&rsquo;s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates. The effects are moderate on the physical and mental front, showing up as a warm haze in the mind and lightness in the body. Blackberry Chem OG lends itself to curbing minor physical discomfort and numbing the mind to repetitive tasks. &nbsp;</p>\n",
+      "strainShortDescription": "Blackberry Chem OG is a hybrid strain that combines the fruity, mid-level sedation of Blackberry with the gently stimulating but overall subdued Chemdawg. This strain’s unique aroma of tart chemicals and sweet fruit makes it a favorite for consumers with diverse palates.",
+      "strainSymbol": "Bkc",
+      "strainSlug": "blackberry-chem-og",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 13,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Citrus",
+        "Earthy",
+        "Pine"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 25.49019607843137
+        },
+        {
+          "name": "Euphoric",
+          "score": 24.01960784313725
+        },
+        {
+          "name": "Talkative",
+          "score": 21.07843137254902
+        },
+        {
+          "name": "Focused",
+          "score": 19.6078431372549
+        },
+        {
+          "name": "Happy",
+          "score": 7.352941176470589
+        }
+      ],
+      "brandName": "Fireline",
+      "brandSlug": null,
+      "name": "Blackberry Chem Og by Fireline",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 23.49,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0.1,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668582,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 39,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 165,
+      "strainName": "Jillybean",
+      "strainRating": 4.279041916167665,
+      "strainDescription": "<p><span style=\"line-height: 1.6em;\">Jillybean from MzJill Genetics is described as being an upbeat and happy hybrid, with flavors of tangy orange and mango. This strain is a top choice for creative minds and social butterflies looking for unencumbered euphoria during daytime hours. Bred by crossing </span><a href=\"http://www.leafly.com/hybrid/orange-velvet\" style=\"line-height: 1.6em;\">Orange Velvet</a><span style=\"line-height: 1.6em;\"> and </span><a href=\"http://www.leafly.com/hybrid/space-queen\" style=\"line-height: 1.6em;\">Space Queen</a><span style=\"line-height: 1.6em;\">, Jillybean often expresses herself in deep hues of maroon on the leaves.</span></p>\n\n<p>&nbsp;</p>\n",
+      "strainShortDescription": "Jillybean was rated as one of the top 10 strains in 2007 by High times and has tangy orange and mango flavors. THC has been measured up to 17%.",
+      "strainSymbol": "Jil",
+      "strainSlug": "jillybean",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 709,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Citrus",
+        "Orange",
+        "Sweet"
+      ],
+      "strainEffects": [
+        {
+          "name": "Euphoric",
+          "score": 72.31427836188516
+        },
+        {
+          "name": "Happy",
+          "score": 70.70502168958164
+        },
+        {
+          "name": "Uplifted",
+          "score": 65.71248437614881
+        },
+        {
+          "name": "Relaxed",
+          "score": 59.40118373648996
+        },
+        {
+          "name": "Energetic",
+          "score": 41.5990368355268
+        }
+      ],
+      "brandName": "Doc Croc",
+      "brandSlug": "doc-croc",
+      "name": "Jillybean by Doc Croc",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 23.8,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668584,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 65,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Sunset Sherbet",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Solstice",
+      "brandSlug": "solstice",
+      "name": "Sunset Sherbet by Solstice ",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 24.42,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668592,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 11,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 35,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 65,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 1512,
+      "strainName": "XJ-13",
+      "strainRating": 4.308860759493671,
+      "strainDescription": "<p>XJ-13 is a sativa-dominant strain cherished for both its therapeutic potency and enjoyable euphoric buzz. This hybrid cross of <a href=\"http://www.leafly.com/sativa/jack-herer\">Jack Herer</a> and <a href=\"http://www.leafly.com/hybrid/g13-haze\">G13 Haze</a> induces unencumbered cerebral effects perfect for stimulating creativity and conversation. As if we needed another reason to love this lightweight sativa, XJ-13 consistently exhibits a strong citrus aroma accented by notes of earthy pine. Novice consumers looking for an easy, paranoia-free experience can depend on XJ-13 as a surefire way to relieve stress and mood-related symptoms.</p>\n\n<p>&nbsp;</p>\n",
+      "strainShortDescription": "XJ-13 is a sativa-dominant strain cherished for both its therapeutic potency and enjoyable euphoric buzz.",
+      "strainSymbol": "X13",
+      "strainSlug": "xj-13",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 648,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Citrus",
+        "Pine",
+        "Lemon"
+      ],
+      "strainEffects": [
+        {
+          "name": "Happy",
+          "score": 75.31573498964802
+        },
+        {
+          "name": "Relaxed",
+          "score": 61.69427191166322
+        },
+        {
+          "name": "Euphoric",
+          "score": 53.98723257418909
+        },
+        {
+          "name": "Energetic",
+          "score": 53.71290545203588
+        },
+        {
+          "name": "Uplifted",
+          "score": 53.14699792960663
+        }
+      ],
+      "brandName": "Noble Farms",
+      "brandSlug": "noble-farms",
+      "name": "XJ-13 by Noble Farms",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 16,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.17,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668564,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 29,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 54,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 293935,
+      "strainName": "Black Magic",
+      "strainRating": 4.5,
+      "strainDescription": "<p>Black Magic by Andromeda Strains is a deep, dark cannabis variety with exclusive genetics. Created from Melvanetics&rsquo; own <a href=\"https://www.leafly.com/indica/buckeye-purple\">Buckeye Purple</a> and Andromeda&rsquo;s <a href=\"https://www.leafly.com/hybrid/cherry-sauce\">Cherry Sauce</a>, Black Magic combines top-shelf phenotypes to create a unique strain with an equally unique look. One of the growers at Andromeda Strains noted that Black Magic was created by crossing their two darkest plants, producing the darkest strain they&rsquo;ve ever seen. Expressing intoxicating pungent and sweet aromas, Black Magic is not a strain to miss. &nbsp;</p>\n",
+      "strainShortDescription": "Black Magic by Andromeda Strains is a deep, dark cannabis variety with exclusive genetics. Created from Melvanetics’ own Buckeye Purple and Andromeda’s Cherry Sauce, Black Magic combines top-shelf phenotypes to create a unique strain with an equally unique look.",
+      "strainSymbol": "Bmi",
+      "strainSlug": "black-magic",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 2,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy"
+      ],
+      "strainEffects": [
+        {
+          "name": "Happy",
+          "score": 66.66666666666666
+        },
+        {
+          "name": "Relaxed",
+          "score": 66.66666666666666
+        },
+        {
+          "name": "Sleepy",
+          "score": 50
+        },
+        {
+          "name": "Euphoric",
+          "score": 33.33333333333333
+        },
+        {
+          "name": "Uplifted",
+          "score": 33.33333333333333
+        }
+      ],
+      "brandName": "High Altitude",
+      "brandSlug": null,
+      "name": "Black Magic by High Altitude",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 27,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": 0.13,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668559,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 14,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 45,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Juggernaut",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Cut above",
+      "brandSlug": "cut-above",
+      "name": "Juggernaut by Cut Above",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 18,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 11062018,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 20,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 39,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 69,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        },
+        {
+          "packageUnit": "oz",
+          "packageSize": 1,
+          "packagePrice": 129,
+          "quantityRange": 5,
+          "packageDisplayUnit": "1 oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 10,
+      "strainName": "MK Ultra",
+      "strainRating": 4.474464579901153,
+      "strainDescription": "<p>Named after the methods of mental manipulation employed by the CIA&rsquo;s Project MKUltra, this indica-dominant strain stands apart due to its powerful cerebral effects. A cross between&nbsp;mostly-sativa hybrid <a href=\"http://www.leafly.com/hybrid/og-kush\" style=\"text-decoration:none;\">OG Kush</a> and indica <a href=\"http://www.leafly.com/indica/g-13\" style=\"text-decoration:none;\">G-13</a>, this strain is bred by T.H.&nbsp;Seeds and won 1st place Indica at the<em> High Times</em> Cannabis Cup in 2003 and 2nd place in 2004. Indoor growing is facilitated by the plant&rsquo;s short stature, and its above average yield delivers particularly sticky, dense, pungent flowers. MK Ultra is renowned for its &lsquo;hypnotic&rsquo; effects that are fast-acting and best used when strong medication is desired. As evidenced by its collection of awards, this indica is one of the strongest in the world. It might be best for a day when not getting off the couch would be fine.</p>\n",
+      "strainShortDescription": "MK Ultra is a very strong variety of cannabis indica. Named after mind control experiments done by the U.S. government, this strain will definitely control your mind.",
+      "strainSymbol": "Mk",
+      "strainSlug": "mk-ultra",
+      "strainCategory": "Indica",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 504,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Earthy",
+        "Pungent",
+        "Woody"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 99.61658623052503
+        },
+        {
+          "name": "Sleepy",
+          "score": 71.91859362612223
+        },
+        {
+          "name": "Euphoric",
+          "score": 67.80030408156541
+        },
+        {
+          "name": "Happy",
+          "score": 52.0379920395454
+        },
+        {
+          "name": "Hungry",
+          "score": 36.897998185731836
+        }
+      ],
+      "brandName": "Fire Cannabis",
+      "brandSlug": null,
+      "name": "Mk Ultra by Fire Cannabis",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 16.63,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.4,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 11063052,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 17,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 566,
+      "strainName": "Huckleberry",
+      "strainRating": 4.197183098591549,
+      "strainDescription": "<p>The origins and genetics of Huckleberry are under debate, but there is no disputing the strain&rsquo;s unmistakable berry aroma. The flower is compact, light green in color, and generally covered in orange hairs. Huckleberry plants have a flowering time of 8-9 weeks and produce average yields. They might be a bit tricky for the novice grower. The effects of this strain are on the milder side and largely reported as relaxing, cutting through stress without the cloudiness. Undoubtedly, this strain is best known for its intense fruity smell and taste, similar to its relative <a href=\"http://www.leafly.com/hybrid/blueberry\" style=\"text-decoration:none;\">Blueberry</a>.</p>\n",
+      "strainShortDescription": "The Huckleberry hybrid cannabis strain is best known for its intense berry aroma and comes with relaxing sativa-dominant effects.",
+      "strainSymbol": "Huc",
+      "strainSlug": "huckleberry",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 145,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Berry",
+        "Sweet",
+        "Earthy"
+      ],
+      "strainEffects": [
+        {
+          "name": "Happy",
+          "score": 100.22061140876141
+        },
+        {
+          "name": "Relaxed",
+          "score": 94.95745351402458
+        },
+        {
+          "name": "Focused",
+          "score": 59.90387645761109
+        },
+        {
+          "name": "Euphoric",
+          "score": 47.13993066498581
+        },
+        {
+          "name": "Tingly",
+          "score": 32.65836747557517
+        }
+      ],
+      "brandName": "Artizen Cannabis Company",
+      "brandSlug": null,
+      "name": "Huckleberry by Artizen Cannabis Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 22.34,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": 2.13,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668782,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 25,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 69,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 139,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Pbb X Sss",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Chipper Gardens",
+      "brandSlug": "chipper-gardens",
+      "name": "Pbb X Sss by Chipper Gardens",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 12.8,
+      "thcUnit": "percent",
+      "thcPips": 2,
+      "cbdContent": 0,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668607,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 2,
+          "packagePrice": 12,
+          "quantityRange": null,
+          "packageDisplayUnit": "2 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 49,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Prime",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Artizen Cannabis Company",
+      "brandSlug": null,
+      "name": "Prime by Artizen Cannabis Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 21.75,
+      "thcUnit": "percent",
+      "thcPips": 4,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10878319,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 35,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 69,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 382,
+      "strainName": "Banana Kush",
+      "strainRating": 4.29364161849711,
+      "strainDescription": "<p>This legendary West Coast strain crosses <a href=\"https://www.leafly.com/hybrid/ghost-og\">Ghost OG</a>&nbsp;and <a href=\"http://www.leafly.com/hybrid/skunk-haze\">Skunk Haze</a> to create an <a href=\"http://www.leafly.com/indica\">indica</a>-dominant <a href=\"http://www.leafly.com/hybrid\">hybrid</a> that tastes and smells like a bushel of fresh <a href=\"http://www.leafly.com/explore#!/explore/flavors-tree-fruit\">bananas</a>. Banana Kush tends to provide&nbsp;a mellow&nbsp;buzz alongside a relaxed sense of <a href=\"http://www.leafly.com/explore#!/explore/tags-euphoric\">euphoria</a>. A great choice when dealing with <a href=\"http://www.leafly.com/explore#!/explore/symptoms-stress\">stress</a> or <a href=\"http://www.leafly.com/explore#!/explore/symptoms-depression\">depression</a>, Banana Kush also helps stimulate your <a href=\"http://www.leafly.com/explore#!/explore/tags-creative\">creative</a> juices and can help you remain <a href=\"http://www.leafly.com/explore#!/explore/tags-talkative\">talkative</a> in social settings.</p>\n",
+      "strainShortDescription": "Banana Kush has a slight but pleasant banana scent and flavor. This balanced hybrid provides a very nice, strong full body stone with uplifting cerebral effects.",
+      "strainSymbol": "Bak",
+      "strainSlug": "banana-kush",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 895,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Sweet",
+        "Tree Fruit",
+        "Tropical"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 70.89463804002857
+        },
+        {
+          "name": "Euphoric",
+          "score": 49.45248446121863
+        },
+        {
+          "name": "Happy",
+          "score": 45.35881733914196
+        },
+        {
+          "name": "Uplifted",
+          "score": 41.76249357447318
+        },
+        {
+          "name": "Sleepy",
+          "score": 28.500623219238214
+        }
+      ],
+      "brandName": "Cut above",
+      "brandSlug": "cut-above",
+      "name": "Banana Kush by Cut Above",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 25,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 11062015,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 39,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 69,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        },
+        {
+          "packageUnit": "oz",
+          "packageSize": 1,
+          "packagePrice": 129,
+          "quantityRange": 5,
+          "packageDisplayUnit": "1 oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": 255440,
+      "strainName": "Cherry Cream Pie",
+      "strainRating": 4.5,
+      "strainDescription": "<p>Cherry Cream Pie is the decadent indica-dominant hybrid offspring of <a href=\"https://www.leafly.com/hybrid/cherry-pie\">Cherry Pie</a> and <a href=\"https://www.leafly.com/hybrid/cookies-and-cream\">Cookies and&nbsp;Cream</a>. With pronounced OG undertones and hints of tartness and pine, Cherry Cream Pie&rsquo;s <a href=\"https://www.leafly.com/news/cannabis-101/terpenes-the-flavors-of-cannabis-aromatherapy\">terpene profile</a> is half the experience. The strain&rsquo;s calming effects permeate both mind and body, offering consumers carefree, mid-level sedation. Enjoy Cherry Cream Pie later in the day as couch-lock and appetite stimulation are two common side effects after consumption. This delicious strain will mellow aggravated muscles as well as minor aches and pains.&nbsp;</p>\n",
+      "strainShortDescription": "Cherry Cream Pie is the decadent indica-dominant hybrid offspring of Cherry Pie and Cookies & Cream. With pronounced OG undertones and hints of tartness and pine, Cherry Cream Pie’s terpene profile is half the experience.",
+      "strainSymbol": "Ccp",
+      "strainSlug": "cherry-cream-pie",
+      "strainCategory": "Hybrid",
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": 29,
+      "strainLogo": null,
+      "strainFlavors": [
+        "Berry",
+        "Pine",
+        "Sweet"
+      ],
+      "strainEffects": [
+        {
+          "name": "Relaxed",
+          "score": 62.777777777777786
+        },
+        {
+          "name": "Sleepy",
+          "score": 34.44444444444444
+        },
+        {
+          "name": "Uplifted",
+          "score": 33.888888888888886
+        },
+        {
+          "name": "Happy",
+          "score": 22.22222222222222
+        },
+        {
+          "name": "Hungry",
+          "score": 15.555555555555555
+        }
+      ],
+      "brandName": "Bacons Buds",
+      "brandSlug": null,
+      "name": "Cherry Cream Pie by Bacons Buds",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 30.17,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668786,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 17,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 49,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 89,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 169,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Lemon Berry",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Artizen Cannabis Company",
+      "brandSlug": null,
+      "name": "Lemon Berry by Artizen Cannabis Company",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 19.64,
+      "thcUnit": "percent",
+      "thcPips": 3,
+      "cbdContent": 0.26,
+      "cbdUnit": "percent",
+      "cbdPips": 0,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668750,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 12,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 3.5,
+          "packagePrice": 35,
+          "quantityRange": 2,
+          "packageDisplayUnit": "⅛ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 7,
+          "packagePrice": 69,
+          "quantityRange": 3,
+          "packageDisplayUnit": "¼ oz"
+        },
+        {
+          "packageUnit": "g",
+          "packageSize": 14,
+          "packagePrice": 139,
+          "quantityRange": 4,
+          "packageDisplayUnit": "½ oz"
+        },
+        {
+          "packageUnit": "oz",
+          "packageSize": 1,
+          "packagePrice": 249,
+          "quantityRange": 5,
+          "packageDisplayUnit": "1 oz"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Alaskan Cherry Pie",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Capitol City Chronic",
+      "brandSlug": null,
+      "name": "Alaskan Cherry Pie by Capitol City Chronic",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": null,
+      "thcUnit": null,
+      "thcPips": null,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10668778,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 7,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        }
+      ]
+    },
+    {
+      "dispensaryId": 121002,
+      "isReservable": true,
+      "strainId": null,
+      "strainName": "Buddha's Delight",
+      "strainRating": null,
+      "strainDescription": null,
+      "strainShortDescription": null,
+      "strainSymbol": null,
+      "strainSlug": null,
+      "strainCategory": null,
+      "strainImage": null,
+      "strainNugImage": null,
+      "strainLeaflyCollections": null,
+      "strainPublicReviewCount": null,
+      "strainLogo": null,
+      "strainFlavors": null,
+      "strainEffects": null,
+      "brandName": "Capital City Chronic",
+      "brandSlug": null,
+      "name": "Buddha's Delight by Capital City Chronic",
+      "description": null,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
+      "category": "Flower",
+      "thcContent": 28.74,
+      "thcUnit": "percent",
+      "thcPips": 5,
+      "cbdContent": null,
+      "cbdUnit": null,
+      "cbdPips": null,
+      "sortOrder": 0,
+      "isStaffPick": false,
+      "staffPickOrder": null,
+      "id": 10878309,
+      "variants": [
+        {
+          "packageUnit": "g",
+          "packageSize": 1,
+          "packagePrice": 7,
+          "quantityRange": 1,
+          "packageDisplayUnit": "1 g"
+        }
+      ]
+    }
+  ]
+}
