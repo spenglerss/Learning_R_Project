@@ -29,6 +29,12 @@ hist(carseats$Sales)
 High <- ifelse(carseats$Sales <=8, "No", "Yes")
 carseats <- data.frame(carseats, High)
 
-#do a tree without Sales because High is based on Sales
+#do a tree without Sales because the feature 
+
+
+High is based on Sales
 tree.carseats = tree(High~.-Sales, data = carseats)
 summary(tree.carseats)
+
+plot(tree.carseats)
+text(tree.carseats, pretty = 0)
